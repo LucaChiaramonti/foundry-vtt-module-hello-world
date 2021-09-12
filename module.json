@@ -1,0 +1,9 @@
+{
+	"name": "hello-world",
+	"title": "Hello World! primo modulo",
+	"description": "Un semplice modulo che stampa Hello World nel log",
+	"author": "Luca",
+    "version": "1.12.2",
+    "minimumCoreVersion": "0.7.7",
+    "compatibleCoreVersion": "0.8.9"
+}
